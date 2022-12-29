@@ -2,6 +2,8 @@
 
 Franco Olaya
 
+<HR WIDTH="200"></HR>
+
 <!--
 **francolt/francolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
